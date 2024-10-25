@@ -1,0 +1,103 @@
+
+.nav{ 
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 700px;
+    position: sticky;
+    top: 0%;
+    background-color: aqua;
+    padding: 10px 16px;
+}
+.nav>a {
+    text-decoration: none;
+}
+.Home{
+    display: flex;
+    height: 100vh;
+}
+.homeimage{
+    align-items: center;
+}
+.homeimage>img{
+    width: 100%;
+    height: 90vh;
+}
+.homepage{
+    color: azure;
+    width: 900px;
+    align-items: center;   
+    height: 900px;
+    background-size: cover;
+    margin-left: 300px;
+    padding-top: 100px;
+    font-size: xx-large;
+}
+.About{
+    height: 700px;
+	width: 1500px;
+	background-size:cover;
+}
+.abcon{
+    display: flex;
+    color: aliceblue;
+}
+.box1>img{
+    display:flex;
+	width: 350px;
+	border-radius:10%;
+    margin-top: 30%; 
+	padding: 80px; 
+} 
+.box2>h1{
+	margin-left: 100px;
+}
+.box2>h5{
+	margin-left: 100px;
+}
+.box2>h4{
+	color: green;
+}
+.button{
+	height:30px;
+	width:150px;
+	border:2px solid;
+	border-color:darkgreen;
+	background-color:darkgreen;
+}
+.Rescon{
+    display: flex;
+    height: 100vh;
+    color: rgb(12, 108, 192);
+}
+.content{
+    color: aliceblue;
+}
+.content1{
+    background-color: white;
+    width: 400px;
+    padding: 3%;
+    margin-top: 100px; 
+}
+.Contact{
+    margin: 5%;
+    height: 70vh;
+}
+.Contact1{
+    color: aliceblue;
+}
+.Contact1>h3{
+    text-align:center ;
+}
+.contactcon{
+    text-indent: 30%;
+    padding-top: 3%;
+}
+.Portfolio{
+    background-color: black;
+}
+
+
+
+
+
+
